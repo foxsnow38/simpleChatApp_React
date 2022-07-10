@@ -1,2 +1,0 @@
-# simpleChatApp_React
- 
